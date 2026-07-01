@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&pause=1000&color=61DAFB&width=800&height=100&size=50&lines=Bonjour!+Je+suis+Nabil+HRIZ+%F0%9F%91%8B;D%C3%A9veloppeur+Full-Stack+%F0%9F%92%BB;Cr%C3%A9ateur+de+solutions+num%C3%A9riques+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&pause=1000&color=61DAFB&width=800&height=100&size=50&lines=Bonjour!+Je+suis+Nabil+HRI+%F0%9F%91%8B;D%C3%A9veloppeur+Full-Stack+%F0%9F%92%BB;Cr%C3%A9ateur+de+solutions+num%C3%A9riques+%E2%9C%A8)](https://git.io/typing-svg)
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=NABIL-HRIZ&label=Vues%20du%20profil&color=61DAFB&style=flat-square" alt="Nabil HRIZ views" />
@@ -93,4 +93,4 @@ Développeur Full Stack avec un esprit créatif et designer maîtrisant le Front
 
 <h3 align="center">
 ✨ Merci de votre visite ! N'hésitez pas à me contacter pour collaborer sur des projets passionnants. ✨  
-</h3>
+</h3> -->
